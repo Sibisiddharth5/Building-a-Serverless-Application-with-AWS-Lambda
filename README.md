@@ -1,8 +1,8 @@
 # Building a Serverless Application with AWS Lambda
 
- - **NAME:** NETHRA V
+ - **NAME:** SIBISIDDHARTH G
  - **COMPANY:** CODTECH IT SOLUTIONS
- - **INTERN ID:** CT08DS5285  
+ - **INTERN ID:** CT08DS5286  
  - **DOMAIN:** CLOUD COMPUTING 
  - **BATCH DURATION:** 23 JULY to 23 AUGUST 2024  
  - **MENTOR:** MUZAMMIL AHMED
@@ -85,25 +85,26 @@ This project involves deploying a serverless web application using AWS Lambda an
 
  The application is now live and can be accessed via the provided API Gateway URL.
 
-## Creating a Lambda Function in AWS Console
+## Creating a Lambda Function in AWS Console:
 
-![Screenshot (636)](https://github.com/user-attachments/assets/eaa845a3-462d-4409-a53e-b09b372f3533) 
+![Screenshot (107)](https://github.com/user-attachments/assets/d5645e51-c3b0-4fb4-a69d-5ebf8d05c104)
 
-## Editing Lambda Function Code in AWS Console
+## Editing Lambda Function Code in AWS Console:
 
- ![Screenshot (637)](https://github.com/user-attachments/assets/ab5941c2-8d97-4423-a037-10a328c98f59)
+ ![Screenshot (108)](https://github.com/user-attachments/assets/70060856-99ce-433c-89b6-9ae4c08282c3)
+ 
+## Configuring API Gateway Trigger for AWS Lambda Function:
 
-## Configuring API Gateway Trigger for AWS Lambda Function
+ ![Screenshot (111)](https://github.com/user-attachments/assets/25b941f3-b817-467a-a42d-9af6ab64fe1b)
 
- ![Screenshot (638)](https://github.com/user-attachments/assets/32d903f6-4419-4027-ab89-9b12ba1f6f5f)
+## Dashboard View of AWS Lambda Function for Serverless Application Deployment:
 
-## Dashboard View of AWS Lambda Function for Serverless Application Deployment
+![Screenshot (110)](https://github.com/user-attachments/assets/e5786447-bd4a-4af3-baa0-f533e7b6f12a)
 
- ![Screenshot (640)](https://github.com/user-attachments/assets/c89e9b10-3d8e-4321-942b-0f8b7198a9a0)
+## Deploying the Application:
 
-## Deploying the Application 
+![Screenshot (109)](https://github.com/user-attachments/assets/401cdc8a-85dc-4603-9bb2-5be3c3b25f0d)
 
-![Screenshot (639)](https://github.com/user-attachments/assets/118c0272-666d-4b7b-b6fe-0ffebd1a20b5)
 
 
 
